@@ -1,2 +1,4 @@
 00 try write from case 48
 01 try write from case 48
+00 try write from case 48
+01 try write from case 48

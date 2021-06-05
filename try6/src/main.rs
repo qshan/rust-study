@@ -8,7 +8,7 @@ fn main() -> std::io::Result<()> {
   //case 48
   println!("[Case 48]");
 
-    let file_test_case48: String = String::from("/home/fshan/data/work/rustspace/try6/rust_test_case48.txt");
+    let file_test_case48: String = String::from("/home/fshan/data/work/rustspace/rust-study/try6/rust_test_case48.txt");
     //let mut file_case48 = std::fs::OpenOptions::new()
     let mut file_case48 = OpenOptions::new()
         .create(true)
